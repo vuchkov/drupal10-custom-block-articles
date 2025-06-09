@@ -1,5 +1,5 @@
-name: RR Example
-description: Defines a custom block module.
+name: Example Module
+description: Defines a custom module.
 type: module
 core_version_requirement: ^9 || ^10
 package: custom
